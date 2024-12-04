@@ -34,3 +34,9 @@ To run the Smart Gads web app locally using the Makefile, you can follow these s
 4. Start the server by running make run.
 
 You can then access the web app at http://localhost:3000 and the Swagger documentation at http://localhost:3000/swagger/index.html.
+
+
+
+
+
+
