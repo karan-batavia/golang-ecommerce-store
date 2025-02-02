@@ -14,7 +14,7 @@ Features
 7. Testing and deployment: The codebase is thoroughly tested using Go's testing framework, and automated with continuous integration and deployment tools like GitHub Actions and Docker.
 8. Makefile: The project includes a Makefile that allows you to easily build and run the application with the make run command. Other commands available include make test for running tests and make clean for cleaning up build artifacts.
 
-
+    
 Technologies
 ============
 > Go Gin: A lightweight and fast web framework for Go.
