@@ -6,7 +6,7 @@ Smart Gads is an eCommerce web application built using Go Gin, PostgreSQL, and R
 Features
 ========
 1. User authentication: Users can create an account, log in, and update their profile information. Passwords are hashed and salted for security.
-2. Product management: Merchants can add, edit, and delete their products, including images, descriptions, prices, and categories. Customers can browse and search for products, filter by category and price range, and add them to their cart.
+2. Product management: Merchants can add, edit, and delete their products, including images, descriptions, prices, and categories. Customers can browse and search for products, filter by category an d price range, and add them to their cart.
 3. Order management: Merchants can view and fulfill orders, mark them as shipped, and update their status. Customers can view their order history and track their shipments.
 4. Payment integration: Customers can securely checkout using Stripe, a popular payment processing service. Orders are automatically created and updated with payment information.
 5. Admin panel: Administrators can manage users, products, orders, and categories. They can also view statistics and generate reports.
